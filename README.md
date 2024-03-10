@@ -12,7 +12,7 @@ The purpose of this project is to create a Deep Learning model and this dataset 
 https://public.roboflow.com/object-detection/pothole
  
 
-**The dataset consists of only one class: (Pothole)**
+**This dataset consist of only one class: (Pothole)**
 
 
 
