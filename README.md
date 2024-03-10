@@ -49,10 +49,14 @@ https://public.roboflow.com/object-detection/pothole
 ## Testing Video Demo:
  
 
+
+https://github.com/Tanwar-12/POT-HOLE-DETECTION-YLOLOV5/assets/110081008/8dad77ab-d3ab-491a-a0a5-b4eb0ab4d2a9
+
+
   
 
 
-https://github.com/Tanwar-12/POT-HOLE-DETECTION-YLOLOV5/assets/110081008/6af6c588-d8a5-4a45-acee-babc1d826f3a
+
 
 
 
